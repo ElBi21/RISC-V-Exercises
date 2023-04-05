@@ -13,6 +13,9 @@ RISC-V Exercises
  ├ Exercise 01
  │  └ riscv1-ex1.asm | Sum two numbers and save the result in the memory
  ├ Exercise 02
+ │  ├ riscv1-ex1.asm | Print different strings based on the initial number
+ │  ├ riscv1-ex2.asm | Print the length of the string
+ │  └ riscv1-ex3.asm | Print the smaller integer between the given two
  ├ Exercise 03
  ├ Exercise 04
  ├ Exercise 05
