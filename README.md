@@ -43,7 +43,15 @@ RISC-V Exercises
  │  ├ riscv1-ex8.asm | Reverse a list recursively [INCOMPLETE]
  │  └ riscv1-ex9.asm | Solution for the previous exercise
  ├ Exercise 09
+ │  ├ riscv1-ex1.asm | Print how many times both numbers x and y appear in the array
+ │  ├ riscv1-ex2.asm | Count the rows in a matrix
+ │  ├ riscv1-ex3.asm | Print the elements in the diagonal of a NxN matrix
+ │  ├ riscv1-ex4.asm | Traverse a binary tree and print the number of nodes [INCOMPLETE]
+ │  └ riscv1-ex5.asm | Given a linked list and an integer x, print how many times the integer appears in the list [INCOMPLETE]
  └ Exercise 10
+    ├ riscv1-ex1-solution.asm | Print the number of nodes in a n-ary tree [SOLUTION]
+    ├ riscv1-ex2.asm | Print the sum of the positive numbers in the array
+    └ riscv1-ex3.asm | Print the Maximum Common Divisor between two numbers x and y
 ```
 
 ## Further informations
