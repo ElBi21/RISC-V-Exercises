@@ -17,7 +17,11 @@ RISC-V Exercises
  │  ├ riscv1-ex2.asm | Print the length of the string
  │  └ riscv1-ex3.asm | Print the smaller integer between the given two
  ├ Exercise 03
+ │  ├ riscv1-ex1.asm | Print the sum of all the array's values
+ │  └ riscv1-ex2.asm | Print the array's value in the Nth position, where N is the first given integer
  ├ Exercise 04
+ │  ├ riscv1-persproj.asm | Given a string of a roman number, it decodes it into a decimal number
+ │  └ riscv1-ex2.asm | Print the factorial of a number iteratively
  ├ Exercise 05
  ├ Exercise 06
  ├ Exercise 07
