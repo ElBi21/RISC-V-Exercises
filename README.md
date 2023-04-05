@@ -23,9 +23,25 @@ RISC-V Exercises
  │  ├ riscv1-persproj.asm | Given a string of a roman number, it decodes it into a decimal number
  │  └ riscv1-ex2.asm | Print the factorial of a number iteratively
  ├ Exercise 05
+ │  ├ riscv1-ex1.asm | Print all the numbers fron N to 1
+ │  └ riscv1-ex2.asm | Print the biggest number in an array
  ├ Exercise 06
+ │  ├ riscv1-ex1.asm | Example of a function
+ │  ├ riscv1-ex2.asm | Print two strings with a new line between the two words
+ │  └ riscv1-ex3.asm | Example of a recursive function that computes the factorial of a number
  ├ Exercise 07
+ │  ├ riscv1-ex1.asm | Print the length of a linked list
+ │  ├ riscv1-ex2.asm | Print the length of a linked list (should be recursive) 
  ├ Exercise 08
+ │  ├ riscv1-ex1.asm | Print the bigger integer between the two given ones
+ │  ├ riscv1-ex2.asm | Previous exercise but with labels (with pseudo-instructions)
+ │  ├ riscv1-ex3.asm | Print all the numbers between y and x
+ │  ├ riscv1-ex4.asm | Print if the first number is in the array
+ │  ├ riscv1-ex5.asm | Print the numbers in the even positions of the array
+ │  ├ riscv1-ex6.asm | Print the sum of all the values of the linked list
+ │  ├ riscv1-ex7.asm | Print the sum (obtained recursively) of all the items of the linked list
+ │  ├ riscv1-ex8.asm | Reverse a list recursively [INCOMPLETE]
+ │  └ riscv1-ex9.asm | Solution for the previous exercise
  ├ Exercise 09
  └ Exercise 10
 ```
