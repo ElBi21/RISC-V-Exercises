@@ -1,4 +1,4 @@
-# Print the numbers in even position in the array
+# Print the numbers in the even positions of the array
 .data
 	.word 6
 	.word 5
