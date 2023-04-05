@@ -13,7 +13,7 @@ a:		.word 4, -1, 0, 1
 		addi x8, x8, 8
 	
 	
-myLoop:	beq x7, x12, printAndClose
+myLoop:		beq x7, x12, printAndClose
 		jal x1, countRow
 		addi x7, x7, 1
 		beq x0, x0, myLoop
@@ -32,5 +32,5 @@ countRow:
 		addi x13, x13, 1		# counter of n
 		addi x8, x8, 4			# update address
 		beq x0, x0, countRow		# repeat
-endIt:	add x13, x0, x0			# set x13 = 0
+endIt:		add x13, x0, x0			# set x13 = 0
 		jalr x0, x1, 0			# return val
