@@ -1,5 +1,5 @@
 # We have previously seen some examples of trees, but mainly binary trees. How do we represent non-binary
-# trees? We proceed by declaring the concept of forest: a forest is a group of nodes, which all have in
+# trees (so n-ary trees)? We proceed by declaring the concept of forest: a forest is a group of nodes, which all have in
 # common the same root. In each node the structure is:
 #
 #	labelOfNode:	.word value, child, siblings
