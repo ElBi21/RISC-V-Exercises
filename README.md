@@ -1,4 +1,4 @@
-<h1 align="center"> RISC-V Assembly Exercises</h1>
+<h1 align="center">RISC-V Assembly Exercises</h1>
 
 <p align="center">Some exercises of ASM for RISC-V processors made during my first year of university</p>
 
@@ -58,7 +58,7 @@ RISC-V Exercises
 
 <img align="right" src="https://i.imgur.com/lvb3NvF.png" width=50%>
 
-With a bit of patience, I've been able to (*kind-of*) reproduce the One Dark color theme on RARS. I haven't yet discovered if there is a way to export color schemes, so I'm listing all the colors (in RGB format, since all the colors have the A value equal to `255`) here (note that, in order to change the editor's colors, you have to go to `Settings > Editor...`). The font that I'm using is the **beloved** [JetBrains Mono font](https://www.jetbrains.com/lp/mono/), `plain` style, with `15pt` size.
+With a bit of patience, I've been able to (*kind-of*) reproduce the One Dark color theme on [RARS](https://github.com/TheThirdOne/rars). I haven't yet discovered if there is a way to export color schemes, so I'm listing all the colors (in RGB format, since all the colors have the A value equal to `255`) here (note that, in order to change the editor's colors, you have to go to `Settings > Editor...`). The font that I'm using is the **beloved** [JetBrains Mono font](https://www.jetbrains.com/lp/mono/), `plain` style, with `15pt` size.
 
 For the editor:
  - Background: `35, 39, 46`;
@@ -78,3 +78,5 @@ If I'll find out how to edit the color of the UI too, then I will update this `R
 ## 3) Further informations & credits
 
 These exercises come from the lectures of [professor Mei](http://wwwusers.di.uniroma1.it/~mei/) @ [Sapienza](https://www.uniroma1.it). Further informations regarding the course can be found [here](https://corsidilaurea.uniroma1.it/it/view-course-details/2022/30786/20190322084705/8b2780f8-63fd-464f-bd7b-cec85d425e3c/563a787b-d89f-4266-b681-64a9f5367faa/0a1a2f92-c45e-4ea7-bc89-af3f93772dc8/e757cc43-5a0d-4405-9223-0b6373c96b59?guid_cv=563a787b-d89f-4266-b681-64a9f5367faa&current_erogata=8b2780f8-63fd-464f-bd7b-cec85d425e3c).
+
+All the exercises were made with the [RARS software](https://github.com/TheThirdOne/rars)
