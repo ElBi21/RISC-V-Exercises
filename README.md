@@ -54,6 +54,27 @@ RISC-V Exercises
     └ riscv1-ex3.asm | Print the Maximum Common Divisor between two numbers x and y
 ```
 
-## 2) Further informations
+## 2) RARS theme (OneDark based)
+
+<img align="right" src="https://i.imgur.com/lvb3NvF.png" width=50%>
+
+With a bit of patience, I've been able to (*kind-of*) reproduce the One Dark color theme on RARS. I haven't yet discovered if there is a way to export color schemes, so I'm listing all the colors (in RGB format, since all the colors have the A value equal to `255`) here (note that, in order to change the editor's colors, you have to go to `Settings > Editor...`).
+
+For the editor:
+ - Background: `35, 39, 46`;
+ - Foreground: `228, 192, 123` (this edits both the line numbers and all the text sections that are not instructions / register / comments...);
+ - Line Highlight: `44, 49, 60`;
+ - Text Selection: `61, 69, 85`;
+ - Caret: `82, 138, 251`;
+
+For the keywords:
+ - Label: `228, 192, 123`;
+ - Instruction: `97, 174, 238`;
+ - Assembler Directive: `198, 120, 221`;
+ - Register: `213, 104, 113`;
+ 
+If I'll find out how to edit the color of the UI too, then I will update this `README` file with the necessary instructions to change it.
+ 
+## 3) Further informations & credits
 
 These exercises come from the lectures of [professor Mei](http://wwwusers.di.uniroma1.it/~mei/) @ [Sapienza](https://www.uniroma1.it). Further informations regarding the course can be found [here](https://corsidilaurea.uniroma1.it/it/view-course-details/2022/30786/20190322084705/8b2780f8-63fd-464f-bd7b-cec85d425e3c/563a787b-d89f-4266-b681-64a9f5367faa/0a1a2f92-c45e-4ea7-bc89-af3f93772dc8/e757cc43-5a0d-4405-9223-0b6373c96b59?guid_cv=563a787b-d89f-4266-b681-64a9f5367faa&current_erogata=8b2780f8-63fd-464f-bd7b-cec85d425e3c).
