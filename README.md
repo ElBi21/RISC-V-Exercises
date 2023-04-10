@@ -40,7 +40,7 @@ RISC-V Exercises
  │  ├ riscv1-ex5.asm | Print the numbers in the even positions of the array
  │  ├ riscv1-ex6.asm | Print the sum of all the values of the linked list
  │  ├ riscv1-ex7.asm | Print the sum (obtained recursively) of all the items of the linked list
- │  ├ riscv1-ex8.asm | Reverse a list recursively [INCOMPLETE]
+ │  ├ riscv1-ex8.asm | Reverse a list recursively
  │  └ riscv1-ex9.asm | Solution for the previous exercise
  ├ Exercise 09
  │  ├ riscv1-ex1.asm | Print how many times both numbers x and y appear in the array
