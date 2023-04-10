@@ -14,7 +14,7 @@
 	jal x1, inTheStack	# execute the function
 	
 	addi x17, x17, 9	# prepare to terminate
-	ecall			# terminate
+	ecall				# terminate
 	
 	# x1: function address, x9: array element
 	
@@ -40,7 +40,7 @@ recursive:
 	# proceed to reverse it and print it
 	
 	lw x10, 4(x2)		# load the value
-	ecall			# print the value
+	ecall				# print the value
 	sw x10, 0(x5)		# save the value into the memory
 	addi x5, x5, 4		# update the standard address
 	
