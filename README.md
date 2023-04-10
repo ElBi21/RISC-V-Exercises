@@ -48,10 +48,14 @@ RISC-V Exercises
  │  ├ riscv1-ex3.asm | Print the elements in the diagonal of a NxN matrix
  │  ├ riscv1-ex4.asm | Traverse a binary tree and print the number of nodes
  │  └ riscv1-ex5.asm | Given a linked list and an integer x, print how many times the integer appears in the list [INCOMPLETE]
- └ Exercise 10
-    ├ riscv1-ex1-solution.asm | Print the number of nodes in a n-ary tree [SOLUTION]
-    ├ riscv1-ex2.asm | Print the sum of the positive numbers in the array
-    └ riscv1-ex3.asm | Print the Maximum Common Divisor between two numbers x and y
+ ├ Exercise 10
+ │  ├ riscv1-ex1-solution.asm | Print the number of nodes in a n-ary tree [SOLUTION]
+ │  ├ riscv1-ex2.asm | Print the sum of the positive numbers in the array
+ │  └ riscv1-ex3.asm | Print the Maximum Common Divisor between two numbers x and y
+ └ Exercise [Extra Batch]
+    ├ riscv1-ex1.asm | Reverse an array recursively
+    ├ riscv1-ex2.asm | Print the length of a linked list by using recursion
+    └ riscv1-ex3.asm | Count the sum of the values of a binary tree
 ```
 
 ## 2) RARS theme ([OneDark](https://github.com/joshdick/onedark.vim) based)
