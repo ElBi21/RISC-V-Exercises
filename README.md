@@ -54,7 +54,7 @@ RISC-V Exercises
     └ riscv1-ex3.asm | Print the Maximum Common Divisor between two numbers x and y
 ```
 
-## 2) RARS theme (OneDark based)
+## 2) RARS theme ([OneDark](https://github.com/joshdick/onedark.vim) based)
 
 <img align="right" src="https://i.imgur.com/lvb3NvF.png" width=50%>
 
