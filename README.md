@@ -58,7 +58,7 @@ RISC-V Exercises
 
 <img align="right" src="https://i.imgur.com/lvb3NvF.png" width=50%>
 
-With a bit of patience, I've been able to (*kind-of*) reproduce the One Dark color theme on [RARS](https://github.com/TheThirdOne/rars). I haven't yet discovered if there is a way to export color schemes, so I'm listing all the colors (in RGB format, since all the colors have the A value equal to `255`) here (note that, in order to change the editor's colors, you have to go to `Settings > Editor...`). The font that I'm using is the **beloved** [JetBrains Mono font](https://www.jetbrains.com/lp/mono/), `plain` style, with `15pt` size.
+With a bit of patience, I've been able to (*kind-of*) reproduce the One Dark color theme on [RARS](https://github.com/TheThirdOne/rars). I haven't yet discovered if there is a way to export color schemes, so I'm listing all the colors here (in RGB format, since all the colors have the A value equal to `255`. Please note that, in order to change the editor's colors, you have to go to `Settings > Editor...`). The font that I'm using is the **beloved** [JetBrains Mono font](https://www.jetbrains.com/lp/mono/), `plain` style, with `15pt` size.
 
 For the editor:
  - Background: `35, 39, 46`;
