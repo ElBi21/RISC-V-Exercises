@@ -31,7 +31,7 @@ RISC-V Exercises
  │  └ riscv1-ex3.asm | Example of a recursive function that computes the factorial of a number
  ├ Exercise 07
  │  ├ riscv1-ex1.asm | Print the length of a linked list
- │  └ riscv1-ex2.asm | Print the length of a linked list (should be recursive) 
+ │  └ riscv1-ex2.asm | Print the length of a linked list recursively
  ├ Exercise 08
  │  ├ riscv1-ex1.asm | Print the bigger integer between the two given ones
  │  ├ riscv1-ex2.asm | Previous exercise but with labels (with pseudo-instructions)
