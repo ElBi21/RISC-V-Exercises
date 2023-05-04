@@ -52,6 +52,13 @@ RISC-V Exercises
  │  ├ riscv1-ex1-solution.asm | Print the number of nodes in a n-ary tree [SOLUTION]
  │  ├ riscv1-ex2.asm | Print the sum of the positive numbers in the array
  │  └ riscv1-ex3.asm | Print the Maximum Common Divisor between two numbers x and y
+ ├ Exercise 11
+ │  ├ riscv1-ex1.asm | Remove all the negative items from a linked list [INCOMPLETE]
+ │  ├ riscv1-ex2.asm | Build a function that takes an array and arrange it in such a way that the first item is the minimum [INCOMPLETE]
+ │  ├ riscv1-ex3.asm | Sort the array from the smallest to the greatest item
+ │  └ riscv1-ex4.asm | Sort the array such that all the values smaller than y are on the left of y and the bigger ones are on the right [INCOMPLETE]
+ ├ Exercise 12
+ │  └ riscv1-ex1.asm | Given a value N, search efficiently in the tree if N is present [INCOMPLETE]
  └ Exercise [Extra Batch]
     ├ riscv1-ex1.asm | Reverse an array recursively
     ├ riscv1-ex2.asm | Print the length of a linked list by using recursion
